@@ -6,25 +6,27 @@ body {
     background-color: rgb(37, 37, 37);
     overflow: hidden;
 }
-.img-photo{
+
+.img-photo {
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 .rounded-circle {
-    border-radius: 50%!important;
+    border-radius: 50% !important;
 }
+
 .img-fluid {
     max-width: 100%;
     height: auto;
 }
-.section {
-    padding: 10px 50px 0 150px;
-}
+
 .img-cover {
     width: 250px;
     box-shadow: 0 4px 8px 0 #00000040, 0 6px 20px 0 #0000001e;
 }
+
 .social-media-buttons {
     margin-top: 30px;
     display: flex;
@@ -36,15 +38,15 @@ body {
     text-decoration: none;
 }
 
-.link{
+.link {
     text-decoration: none;
 }
 
-.link:hover{
+.link:hover {
     color: #fff;
 }
 
-button:hover{
+button:hover {
     background-color: #e84855;
     color: #fff !important;
     cursor: pointer;
@@ -97,12 +99,12 @@ button {
     -webkit-transition: background-color 0.5s ease-out;
 }
 
-.icon{
+.icon {
     width: 50px;
     height: 45px;
 }
 
-.display-4{
+.display-4 {
     font-size: 3.5rem;
     font-weight: 300;
     line-height: 1.2;
